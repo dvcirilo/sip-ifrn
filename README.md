@@ -1,3 +1,3 @@
-# Instalação e Configuração de Servidores - 2022.2
+# Seminário de Iniciação à Pesquisa - 2023.2
 
-Material de aula da disciplina de Instalação em Configuração de Servidores.
+Material de aula da disciplina de Seminário de Iniciação à Pesquisa.
